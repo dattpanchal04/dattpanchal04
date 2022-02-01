@@ -2,7 +2,7 @@
 
 [![Website](https://img.shields.io/website?label=codies.surge.sh&style=for-the-badge&url=https://codies.surge.sh/)](https://codies.surge.sh/)
 
-## I'm a Student, Coder and Learner !!
+## I'm a Junior Front End Developer, Coder, Freelancer, Learner and ECE Student !!
 
 
 - 🔭 I published Python & Web Development courses on my website ! Checkout [Courses][course]!
