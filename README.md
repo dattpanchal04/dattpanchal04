@@ -50,7 +50,7 @@
 
 ---
 
-[website]: http://codies.surge.sh/
+[website]: https://dattpanchal.netlify.app/
 [course]: http://codies.surge.sh/
 [twitter]: https://twitter.com/dattpanchal04
 [webdevcourse]: http://codies.surge.sh/LearnWebDevPage/WebDevCourses.html
