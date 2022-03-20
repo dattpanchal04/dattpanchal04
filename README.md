@@ -1,6 +1,6 @@
 # Hi there, I'm Datt 👋 
 
-[![Website](https://img.shields.io/website?label=codies.surge.sh&style=for-the-badge&url=https://codies.surge.sh/)](https://codies.surge.sh/)
+[![Website](https://img.shields.io/website?label=Portfolio&style=for-the-badge&url=https://codies.surge.sh/)](https://dattpanchal.netlify.app/)
 
 ## I'm a Junior Front End Developer, Coder, Freelancer, Learner and ECE Student !!
 
