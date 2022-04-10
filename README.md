@@ -35,7 +35,8 @@
 
 - [ Python Programming 2022 🔥 ](http://codies.surge.sh/LearnPythonPage/pytopics.html)
 - [ Web Development 2022 ](http://codies.surge.sh/LearnWebDevPage/WebDevCourses.html)
-- [ Personal Website ](http://codies.surge.sh/)
+- [ Website ](http://codies.surge.sh/)
+- [ Portfolio ](https://dattpanchal.netlify.app/)
 - [ Textzilla - A text utilizer ](https://textzilla.surge.sh/)
 - [ CodeLux - A modern web design template](http://codelux.surge.sh/)
 - [ Ageex - A age calculator tool ](http://ageex.surge.sh/)
