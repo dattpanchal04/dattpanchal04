@@ -10,7 +10,7 @@
 - 🥅 2022 Goals: Learn more skills, Improvement in my-self and learning something new everytime
 - ⚡ Fun fact: I love to code on computer, learning skills of new world !!
 
-### Connect with me:
+### Connect with me
 
 [<img align="left" alt="codies.surge.sh" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="dattpanchal04 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
@@ -20,7 +20,7 @@
 
 <br />
 
-### Languages and Tools:
+### Languages and Tools
 
 [<img align="left" alt="HTML" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][webdevcourse]
 [<img align="left" alt="CSS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][csscourse]
@@ -60,7 +60,7 @@
 [reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
 
 
-# About myself
+# About Myself
 
 I'm Datt from India, and I do Electronics & Communication Engineering ( EC ) right now. I really enjoy in Electronics & Communication Field. So many new thing about New Technologies in this field I learned. But, in second side i learned new programming languages and i really enjoy to do that. I learned Web Development, Python Programming, C Programming, Game Development In Python, Git & Github past one year. So many new concepts i learned about programming & How machines works when we gives the commands. I created one website using HTML, CSS & Javascript. You can check out my website https://codies.surge.sh/ . You can also check my twitter account at https://twitter.com/dattpanchal04 . 
 
