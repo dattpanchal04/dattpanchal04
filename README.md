@@ -2,7 +2,7 @@
 
 [![Website](https://img.shields.io/website?label=Portfolio&style=for-the-badge&url=https://codies.surge.sh/)](https://dattpanchal.netlify.app/)
 
-## I'm a Junior Front End Developer, Coder, Freelancer, Learner and ECE Student !!
+## I'm a Junior Front End Developer, Coder, Learner and ECE Student !!
 
 
 - 🔭 I published Python & Web Development courses on my website ! Checkout [Courses][course]!
@@ -35,11 +35,7 @@
 
 - [ Python Programming 2022 🔥 ](http://codies.surge.sh/LearnPythonPage/pytopics.html)
 - [ Web Development 2022 ](http://codies.surge.sh/LearnWebDevPage/WebDevCourses.html)
-- [ Website ](http://codies.surge.sh/)
-- [ Portfolio ](https://dattpanchal.netlify.app/)
-- [ Textzilla - A text utilizer ](https://textzilla.surge.sh/)
-- [ CodeLux - A modern web design template](http://codelux.surge.sh/)
-- [ Ageex - A age calculator tool ](http://ageex.surge.sh/)
+- [ Portfolio Website ](https://dattpanchal.netlify.app/)
 
 ➡️ [more info..](http://codies.surge.sh/index.html)
 
